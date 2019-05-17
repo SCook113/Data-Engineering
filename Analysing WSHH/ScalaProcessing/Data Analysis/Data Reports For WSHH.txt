@@ -1,0 +1,132 @@
+Sum of all posted videos on website: 
+
+There were 109248 Videos posted in total.
+
+######################################################################
+
+Views in total total per year: 
+
+In the Year 2007 the videos had a sum of 44142296 views
+In the Year 2008 the videos had a sum of 1200716951 views
+In the Year 2009 the videos had a sum of 2588774886 views
+In the Year 2010 the videos had a sum of 4106354233 views
+In the Year 2011 the videos had a sum of 4061792032 views
+In the Year 2012 the videos had a sum of 4035116634 views
+In the Year 2013 the videos had a sum of 6617308738 views
+In the Year 2014 the videos had a sum of 7404023069 views
+In the Year 2015 the videos had a sum of 6609149053 views
+In the Year 2016 the videos had a sum of 4762702576 views
+In the Year 2017 the videos had a sum of 4105494678 views
+In the Year 2018 the videos had a sum of 3802116949 views
+In the Year 2019 the videos had a sum of 1672604549 views
+
+
+######################################################################
+
+Posts in total total per year: 
+
+In the Year 2007 there were 762 videos posted
+In the Year 2008 there were 5144 videos posted
+In the Year 2009 there were 7723 videos posted
+In the Year 2010 there were 7824 videos posted
+In the Year 2011 there were 7597 videos posted
+In the Year 2012 there were 8422 videos posted
+In the Year 2013 there were 9453 videos posted
+In the Year 2014 there were 8997 videos posted
+In the Year 2015 there were 11004 videos posted
+In the Year 2016 there were 11287 videos posted
+In the Year 2017 there were 12554 videos posted
+In the Year 2018 there were 14193 videos posted
+In the Year 2019 there were 4288 videos posted
+
+
+######################################################################
+
+Average number of views per video in a year: 
+
+In the Year 2007 a video had 57929 views on average
+In the Year 2008 a video had 233420 views on average
+In the Year 2009 a video had 335203 views on average
+In the Year 2010 a video had 524840 views on average
+In the Year 2011 a video had 534657 views on average
+In the Year 2012 a video had 479116 views on average
+In the Year 2013 a video had 700022 views on average
+In the Year 2014 a video had 822943 views on average
+In the Year 2015 a video had 600613 views on average
+In the Year 2016 a video had 421963 views on average
+In the Year 2017 a video had 327026 views on average
+In the Year 2018 a video had 267886 views on average
+In the Year 2019 a video had 390066 views on average
+
+
+######################################################################
+
+The 15 most viewed posts: 
+
+Title: " Bow Wow Speaking On His Just Released ""Greenlight 2"" Mixtape [Free Mixtape Download Link Inside]", views: 42923447
+Title: Mon. E.G. & Freeway - Death 2 My Opponent, views: 28868937
+Title: WSHH Official Model - Cubana Lust Pt. 4 [CubanaLust.Com Coming Soon], views: 28650990
+Title: Tyga - I'm So Raw [In Studio Performance / W Chris Brown], views: 28151607
+Title: Gucci Mane - I Want Her, views: 26696304
+Title: Paul Wall Feat. Bun B & D-Boss - I'm Real You Fake, views: 26338826
+Title: Rick Ross - 9 Piece / Even Deeper, views: 26275048
+Title: Rick Ross (Feat. Drake) - Made Men, views: 25257824
+Title: The Game Feat. Ty Dolla $ign & Nipsey Hussle - Same Hoes, views: 24409188
+Title: Mimi Faust & Fiance Nikko Of VH1's Love & Hip Hop Atlanta Exclusive Sextape Trailer ! (*Warning* Must Be 18yrs Or Older To View), views: 23584014
+Title: Diddy Dirty Money (Feat. Swizz Beatz) - Ass On The Floor, views: 23272730
+Title: Gucci Mane - Gucci Two Times, views: 22106542
+Title: Big Sean - Crazy, views: 21726403
+Title: WSHH Presents: Power 106 Powerhouse Experience With Jennifer Lopez, views: 21288411
+Title: L.E.P. Bogus Boys - Sleep, views: 21217839
+
+
+######################################################################
+
+What are the top words used in the most viewed 10000 posts:
+
+Here I did not filter out stop words, but filtered for word length of > 4 characters
+
+(Submitted],1487)
+(Feat.,1264)
+((Feat.,664)
+((*Warning*,580)
+([Unsigned,545)
+(Older,511)
+(Artist],478)
+([Label,431)
+(View),428)
+(Young,396)
+(18yrs,390)
+(After,361)
+(Money,267)
+(Week:,200)
+([User,186)
+(Music,180)
+(Fight,165)
+(Woman,162)
+(Records,149)
+(Caught,148)
+(Getting,146)
+(Gucci,139)
+(Episode,137)
+(Submitted]",136)
+(French,135)
+(Montana,135)
+(While,128)
+(Don't,125)
+(Years,119)
+(Presents,117)
+(Black,116)
+(During,111)
+(About,107)
+(Girls,102)
+(Freestyle,101)
+(Candy,94)
+(Hype],93)
+("WSHH,88)
+(Dolph,86)
+(Group,84)
+
+
+######################################################################
+

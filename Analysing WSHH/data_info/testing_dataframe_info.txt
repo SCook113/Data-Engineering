@@ -1,0 +1,32 @@
+Info Function:
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1000 entries, 0 to 999
+Data columns (total 4 columns):
+time_crawled    1000 non-null object
+time_posted     1000 non-null object
+title           1000 non-null object
+views           1000 non-null int64
+dtypes: int64(1), object(3)
+memory usage: 31.3+ KB
+
+
+####################################################################################################
+Columns:
+
+time_crawled, time_posted, title, views, 
+
+####################################################################################################
+Describe Function:
+
+              views
+count  1.000000e+03
+mean   3.981743e+05
+std    6.868045e+05
+min    6.910000e+02
+25%    1.421568e+05
+50%    2.392985e+05
+75%    3.751548e+05
+max    7.438401e+06
+
+End of File
